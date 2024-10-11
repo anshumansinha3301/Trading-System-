@@ -1,2 +1,7 @@
-# Trading-System-
-Trading system using python for buy and sell stocks
+### Software Requirements Specification (SRS) for Advanced Trading System
+
+The Advanced Trading System (ATS) is a console-based application designed to simulate stock market trading for users. It provides users with the ability to buy and sell stocks using virtual money, allowing them to manage their portfolio efficiently while learning the fundamentals of trading. The main objective of the system is to create a realistic trading experience in a simplified, user-friendly environment.
+
+The system will allow users to view the current stock market, displaying available stocks along with their respective prices. Users can also view detailed information about any specific stock before deciding to trade. Buying and selling stocks is a core functionality of the system, where users can purchase stocks if their account balance permits and sell stocks they own to free up capital. The user's portfolio is automatically updated as transactions occur, keeping track of both the quantity of stocks held and their current value.
+
+Additionally, the system will allow users to view their account balance at any time, showing how much virtual money remains. A transaction history feature will log every buy and sell action for users, ensuring transparency and ease of review. The application is designed for simplicity, efficiency, and ease of use, ensuring that users can navigate the system without difficulty.
